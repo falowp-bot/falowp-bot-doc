@@ -1,44 +1,19 @@
-# falowp-bot-doc
-小花落机器人文档
+![maven](https://img.shields.io/badge/Kotlin-2.0.0-blue.svg)
+![maven](https://img.shields.io/badge/Ktor-3.0.0-a.svg)
+![maven](https://img.shields.io/badge/go--cqhttp-1.2.0-red)
+![maven](https://img.shields.io/badge/qq-bot-red)
 
-# Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+# 小花落Bot-Doc
 
-### Installation
+> 此项目基于qqBot和go-cqhttp开发的机器人框架
 
-```
-$ yarn
-```
+## 当前最新版本
 
-### Local Development
+`// https://mvnrepository.com/artifact/com.blr19c.falowp/falowp-bot-system`
 
-```
-$ yarn start
-```
+`implementation("com.blr19c.falowp:falowp-bot-system:1.0.1-beta-4")`
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## [查看文档](https://falowp.blr19c.com)
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 此文档使用 [Docusaurus](https://docusaurus.io/) 构建
