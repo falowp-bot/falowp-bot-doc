@@ -6,14 +6,6 @@
 
 # 小花落Bot-Doc
 
-> 此项目基于qqBot和go-cqhttp开发的机器人框架
-
-## 当前最新版本
-
-`// https://mvnrepository.com/artifact/com.blr19c.falowp/falowp-bot-system`
-
-`implementation("com.blr19c.falowp:falowp-bot-system:1.0.1-beta-4")`
-
 ## [查看文档](https://falowp.blr19c.com)
 
 ## 此文档使用 [Docusaurus](https://docusaurus.io/) 构建
